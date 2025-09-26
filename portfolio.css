@@ -163,9 +163,9 @@ section .title::after{
 
   
 /* home section styling */
-.home{
+.home {
     display: flex;
-    background: url("https://i.ibb.co/VCNm4z8/20201218-084621-03.jpg") no-repeat center;
+    background: url("images/background.jpg") no-repeat center center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -590,6 +590,10 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+/*body {
+    background-image: url('images/background.jpg');
+    /* ...other background properties... */
+/*}
 
 /* responsive media query start */
 @media (max-width: 1300px) {
